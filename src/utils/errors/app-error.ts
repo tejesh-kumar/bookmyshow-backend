@@ -1,4 +1,6 @@
 import { StatusCodes } from 'http-status-codes';
+import { z } from 'zod';
+import { ValidationField } from '../../types';
 
 class AppError extends Error {
   statusCode: number;
@@ -20,9 +22,12 @@ class AppError extends Error {
 }
 
 export class ValidationError extends AppError {
-  fields = [];
+  fields: ValidationField[] = [];
 
-  constructor(message: string = 'Validation failed', validationErrors: []) {
+  constructor(
+    message: string = 'Validation failed',
+    validationErrors: ValidationField[] = []
+  ) {
     super(StatusCodes.BAD_REQUEST, message);
     this.fields = validationErrors;
   }
