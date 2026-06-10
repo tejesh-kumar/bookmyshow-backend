@@ -1,4 +1,12 @@
 // dtos/CreateMovie.ts
-import { Movie } from '../models/movie-model';
+import { z } from 'zod';
 
-export type CreateMovie = Omit<Movie, 'id' | 'createdAt' | 'updatedAt'>;
+import {
+  createMovieSchema,
+  movieSchema,
+  updateMovieSchema,
+} from '../models/movie-model';
+
+export type Movie = z.infer<typeof movieSchema>;
+export type CreateMovie = z.infer<typeof createMovieSchema>;
+export type UpdateMovie = z.infer<typeof updateMovieSchema>;
