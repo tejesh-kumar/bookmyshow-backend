@@ -1,10 +1,10 @@
 export const SuccessResponse = ({
   message = 'Successfully completed the request',
-  response = {},
+  data = {},
 }) => ({
   success: true,
   message,
-  response,
+  data,
 });
 
 export const ErrorResponse = ({
