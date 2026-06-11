@@ -1,31 +1,25 @@
 import { ResultSetHeader, RowDataPacket } from 'mysql2';
-import { Movie } from '../models/movie-model';
 import db from '../db/mysql';
-import type { CreateMovie } from '../types/dtos';
+import type { Movie, CreateMovie } from '../types/dtos';
 
 class MovieRepository {
   async create(movie: CreateMovie): Promise<any | null> {
-    const sql = `INSERT INTO movies (name, shortDescription, longDescription, coverImage, images, videos, duration, genres, languages, releaseDate, filmCertificate, cast, crew) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`;
+    const sql = `INSERT INTO movies (name, slug, shortDescription, longDescription, coverImage, images, videos, duration, releaseDate, filmCertificate) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`;
 
     const [result] = await db.execute<ResultSetHeader>(sql, [
       movie.name,
+      movie.slug,
       movie.shortDescription,
       movie.longDescription,
       movie.coverImage,
       JSON.stringify(movie.images),
       JSON.stringify(movie.videos),
       movie.duration,
-      JSON.stringify(movie.genres),
-      JSON.stringify(movie.languages),
       movie.releaseDate,
       movie.filmCertificate,
-      JSON.stringify(movie.cast),
-      JSON.stringify(movie.crew),
     ]);
 
-    console.log(result);
-
-    return result;
+    return result?.insertId;
   }
 
   async find(): Promise<Movie[] | null> {
