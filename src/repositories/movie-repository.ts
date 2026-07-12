@@ -3,7 +3,7 @@ import db from '../db/mysql';
 import type { Movie, CreateMovie } from '../types/dtos';
 
 class MovieRepository {
-  async create(movie: CreateMovie): Promise<any | null> {
+  async create(movie: CreateMovie): Promise<number> {
     const sql = `INSERT INTO movies (name, slug, shortDescription, longDescription, coverImage, images, videos, duration, releaseDate, filmCertificate) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`;
 
     const [result] = await db.execute<ResultSetHeader>(sql, [
@@ -22,10 +22,13 @@ class MovieRepository {
     return result?.insertId;
   }
 
-  async find(): Promise<Movie[] | null> {
-    const sql = 'SELECT * FROM movies';
+  async find(cursor: number, limit: number): Promise<Movie[]> {
+    const sql = 'SELECT * FROM movies WHERE id > ? ORDER BY id ASC LIMIT ?';
 
-    const [rows] = await db.execute<RowDataPacket[] & Movie[]>(sql, []);
+    const [rows] = await db.execute<RowDataPacket[] & Movie[]>(sql, [
+      cursor,
+      limit,
+    ]);
 
     return rows;
   }
