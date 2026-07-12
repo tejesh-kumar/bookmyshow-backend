@@ -21,9 +21,12 @@ const getValidationErrors = (
   return errorList;
 };
 
-export function validate(schema: z.ZodTypeAny): RequestHandler {
+export function validate(
+  schema: z.ZodTypeAny,
+  source: 'body' | 'params' | 'query' = 'body'
+): RequestHandler {
   return (req, res, next) => {
-    const result = schema.safeParse(req.body);
+    const result = schema.safeParse(req[source]);
 
     if (!result.success) {
       throw new ValidationError(
