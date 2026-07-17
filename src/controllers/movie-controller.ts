@@ -3,11 +3,33 @@ import MovieService from '../services/movie-service';
 import asyncHandler from '../utils/asyncHandler';
 import { SuccessResponse } from '../utils/response';
 import { StatusCodes } from 'http-status-codes';
-import { GetMoviesQuery } from '../types/dtos';
+import { GetMoviesQuery, MovieSlugParam } from '../types/dtos';
+
+const getFilters = (filterString: string) => {
+  const filter = filterString.split('|');
+  if (filter?.length === 1) return filterString;
+  return filter;
+};
 
 export async function getMovies(req: Request, res: Response) {
-  const { cursor, limit } = req.query as unknown as GetMoviesQuery;
-  const { movies, nextCursor } = await MovieService.getMovies(cursor, limit);
+  const { language, genre, cursor, limit } =
+    req.query as unknown as GetMoviesQuery;
+  let filters = [];
+  if (language) {
+    filters.push({
+      field: 'language',
+      value: getFilters(language),
+      operator: '=',
+    });
+  }
+  if (genre) {
+    filters.push({ field: 'genre', value: getFilters(genre), operator: '=' });
+  }
+  const { movies, nextCursor } = await MovieService.getMovies(
+    filters,
+    cursor,
+    limit
+  );
   res.status(StatusCodes.OK).json(
     SuccessResponse({
       message: 'Movies fetched successfully',
@@ -26,3 +48,17 @@ export const createMovie = asyncHandler(async (req: Request, res: Response) => {
     })
   );
 });
+
+export async function deleteMovieBySlug(
+  req: Request<MovieSlugParam>,
+  res: Response
+) {
+  const { slug } = req.params;
+  const data = await MovieService.deleteMovieBySlug(slug);
+  return res.status(StatusCodes.OK).json(
+    SuccessResponse({
+      message: 'Movie deleted successfully',
+      data,
+    })
+  );
+}

@@ -33,4 +33,11 @@ const createMovieSchema = movieSchema.omit({
 
 const updateMovieSchema = createMovieSchema.partial();
 
-export { movieSchema, createMovieSchema, updateMovieSchema };
+const deleteMovieBySlugSchema = movieSchema.pick({ slug: true });
+
+export {
+  movieSchema,
+  createMovieSchema,
+  updateMovieSchema,
+  deleteMovieBySlugSchema,
+};
