@@ -1,6 +1,7 @@
-import { getMovies, createMovie } from './movie-controller';
+import { getMovies, createMovie, deleteMovieBySlug } from './movie-controller';
 
 export const MovieController = {
   createMovie,
   getMovies,
+  deleteMovieBySlug,
 };

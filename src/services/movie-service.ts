@@ -1,18 +1,42 @@
-import type { Movie, CreateMovie } from '../types/dtos';
+import type {
+  CreateMovie,
+  GetMoviesResponse,
+  CreateMovieResponse,
+} from '../types/dtos';
 import MovieRepository from '../repositories/movie-repository';
+import { QueryFilterObject } from '../utils/queryBuilder';
 
 const movieRepository = new MovieRepository();
 
-async function getMovies(): Promise<Movie[] | null> {
-  const movies: Movie[] | null = await movieRepository.find();
-  return movies;
+async function getMovies(
+  filters?: QueryFilterObject[],
+  cursor?: number,
+  limit?: number
+): Promise<GetMoviesResponse> {
+  const movieLimit = limit ?? 20;
+  const cursorId = cursor ?? 0;
+
+  // const movies = await movieRepository.find(cursorId, movieLimit);
+  const movies = await movieRepository.findMovies({
+    ...(filters ? { filters } : {}),
+    sort: [{ field: 'id', order: 'ASC' }],
+    cursor: { id: cursorId },
+    limit: movieLimit,
+  });
+  const nextCursor = movies.at(-1)?.id ?? null;
+  return { movies, nextCursor };
 }
 
 async function createMovie(
   movieData: CreateMovie
-): Promise<any | null | string> {
-  const movieId: string = await movieRepository.create(movieData);
+): Promise<CreateMovieResponse> {
+  const movieId = await movieRepository.create(movieData);
   return { movieId };
 }
 
-export default { createMovie, getMovies };
+async function deleteMovieBySlug(slug: string): Promise<number> {
+  const res = await movieRepository.deleteMovieBySlug(slug);
+  return res;
+}
+
+export default { createMovie, getMovies, deleteMovieBySlug };

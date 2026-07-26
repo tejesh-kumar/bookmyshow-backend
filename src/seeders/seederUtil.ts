@@ -34,4 +34,16 @@ async function tableSeeder<T extends Record<string, any>>(
   }
 }
 
+export async function clearTable(tableName: string) {
+  try {
+    await db.execute('SET FOREIGN_KEY_CHECKS = 0;');
+    await db.execute(`TRUNCATE TABLE ${tableName};`);
+    await db.execute(`SET FOREIGN_KEY_CHECKS = 1;`);
+    console.log(`✅ Cleared records of ${tableName}`);
+  } catch (err) {
+    console.error(`❌ Error clearing ${tableName}:`, err);
+    throw err;
+  }
+}
+
 export default tableSeeder;
