@@ -2,6 +2,10 @@ import { Pool, ResultSetHeader, RowDataPacket } from 'mysql2';
 import db from '../db/mysql';
 import type { Movie, CreateMovie } from '../types/dtos';
 import BaseRepository from './baseRepository';
+import SqlQueryBuilder, {
+  QueryFilterObject,
+  WhereClauses,
+} from '../utils/queryBuilder';
 
 // class MovieRepository {
 //   async create(movie: CreateMovie): Promise<number> {
@@ -51,9 +55,93 @@ import BaseRepository from './baseRepository';
 //   }
 // }
 
+const queryBuilder = new SqlQueryBuilder();
+
+function getFilterInfo(
+  filters: QueryFilterObject[] | undefined,
+  field: string
+) {
+  const values =
+    (filters?.find((filter) => filter.field === field)?.value as string[]) ??
+    [];
+
+  return {
+    values,
+    placeholders: values.map(() => '?').join(', '),
+  };
+}
+
 class MovieRepository extends BaseRepository<Movie> {
   constructor() {
     super(db, 'movies');
+  }
+
+  async findMovies(whereClauses: WhereClauses) {
+    const { filters, sort, cursor, limit } = whereClauses;
+    const isCursorClauseRequired = sort?.length || cursor?.length;
+    const languageFilter = getFilterInfo(filters, 'languages');
+    const genreFilter = getFilterInfo(filters, 'genres');
+
+    const { queryString: cursorClauseString, values: cursorClauseValues } =
+      queryBuilder.compositeCursorBuilder(cursor, sort);
+    const { queryString: limitString, values: limitValues } =
+      queryBuilder.limitClauseBuilder(limit);
+
+    const values = [
+      ...languageFilter?.values,
+      ...genreFilter?.values,
+      ...cursorClauseValues,
+      ...limitValues,
+    ];
+
+    const sql = `
+                  WITH
+                    languageData AS (
+                      SELECT
+                        movieId,
+                        JSON_ARRAYAGG(name) AS languages
+                      FROM
+                        movieLanguages ml
+                        JOIN languages l ON ml.languageId = l.id
+                      ${
+                        languageFilter?.values?.length
+                          ? `WHERE
+                        l.name IN (${languageFilter?.placeholders})`
+                          : ''
+                      }
+                      GROUP BY
+                        movieId
+                    ),
+                    genreData AS (
+                      SELECT
+                        movieId,
+                        JSON_ARRAYAGG(name) AS genres
+                      FROM
+                        movieGenres mg
+                        JOIN genres g ON mg.genreId = g.id
+                      ${
+                        genreFilter?.values?.length
+                          ? `WHERE
+                        g.name IN (${genreFilter?.placeholders})`
+                          : ''
+                      }
+                      GROUP BY
+                        movieId
+                    )
+                  SELECT
+                    m.*,
+                    languageData.languages,
+                    genreData.genres
+                  FROM
+                    movies m
+                    JOIN languageData ON m.id = languageData.movieId
+                    JOIN genreData ON m.id = genreData.movieId 
+                    ${isCursorClauseRequired && `WHERE ${cursorClauseString}`}
+                    ${limit && limitString}
+`;
+
+    const [rows] = await db.query(sql, values);
+    return rows as Movie[];
   }
 
   async deleteMovieBySlug(slug: string): Promise<number> {

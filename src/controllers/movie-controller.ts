@@ -7,23 +7,23 @@ import { GetMoviesQuery, MovieSlugParam } from '../types/dtos';
 
 const getFilters = (filterString: string) => {
   const filter = filterString.split('|');
-  if (filter?.length === 1) return filterString;
+  if (filter?.length === 1) return [filterString];
   return filter;
 };
 
 export async function getMovies(req: Request, res: Response) {
-  const { language, genre, cursor, limit } =
-    req.query as unknown as GetMoviesQuery;
+  const { languages, genres, cursor, limit } = req.validated
+    .query as unknown as GetMoviesQuery;
   let filters = [];
-  if (language) {
+  if (languages) {
     filters.push({
-      field: 'language',
-      value: getFilters(language),
+      field: 'languages',
+      value: getFilters(languages),
       operator: '=',
     });
   }
-  if (genre) {
-    filters.push({ field: 'genre', value: getFilters(genre), operator: '=' });
+  if (genres) {
+    filters.push({ field: 'genres', value: getFilters(genres), operator: '=' });
   }
   const { movies, nextCursor } = await MovieService.getMovies(
     filters,

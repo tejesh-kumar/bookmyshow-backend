@@ -4,7 +4,7 @@ import type {
   CreateMovieResponse,
 } from '../types/dtos';
 import MovieRepository from '../repositories/movie-repository';
-import { QueryFilterObject } from '../repositories/baseRepository';
+import { QueryFilterObject } from '../utils/queryBuilder';
 
 const movieRepository = new MovieRepository();
 
@@ -17,8 +17,8 @@ async function getMovies(
   const cursorId = cursor ?? 0;
 
   // const movies = await movieRepository.find(cursorId, movieLimit);
-  const movies = await movieRepository.findMany({
-    ...(filters && { filters }),
+  const movies = await movieRepository.findMovies({
+    ...(filters ? { filters } : {}),
     sort: [{ field: 'id', order: 'ASC' }],
     cursor: { id: cursorId },
     limit: movieLimit,
