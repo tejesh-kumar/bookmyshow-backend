@@ -180,6 +180,11 @@ ORDER BY rating DESC,
     return rows as T[];
   }
 
+  async executeOne(sql: string, values: unknown[]): Promise<T[]> {
+    const [rows] = await this.db.execute<RowDataPacket[]>(sql, values);
+    return rows as T[];
+  }
+
   async findById(value: unknown): Promise<T> {
     const sql = `SELECT * FROM ${this.tableName} WHERE id = ?`;
     const [row] = await this.db.execute<RowDataPacket[]>(sql, [value]);
