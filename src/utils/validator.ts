@@ -35,7 +35,8 @@ export function validate(
       );
     }
 
-    req.body = result.data;
+    req.validated ??= {};
+    req.validated[source] = result.data;
     next();
   };
 }

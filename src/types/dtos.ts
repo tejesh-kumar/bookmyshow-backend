@@ -12,8 +12,8 @@ export type CreateMovie = z.infer<typeof createMovieSchema>;
 export type UpdateMovie = z.infer<typeof updateMovieSchema>;
 
 export const getMoviesParamsSchema = z.object({
-  language: z.string().optional(),
-  genre: z.string().optional(),
+  languages: z.string().optional(),
+  genres: z.string().optional(),
   format: z.string().optional(),
   cursor: z.coerce
     .number('Cursor must be positive integer')
