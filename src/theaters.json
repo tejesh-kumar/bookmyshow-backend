@@ -1,0 +1,3281 @@
+[
+  {
+    "name": "Sapphire Screens Koramangala",
+    "address": "No. 10, Main Road, Koramangala, Bengaluru, Karnataka 560080",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Screens+Koramangala+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Parking",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Screens Indiranagar",
+    "address": "No. 11, Main Road, Indiranagar, Bengaluru, Karnataka 560081",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Screens+Indiranagar+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "4K Projection",
+      "IMAX",
+      "Recliner Seats",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Cinemas Whitefield",
+    "address": "No. 12, Main Road, Whitefield, Bengaluru, Karnataka 560082",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Cinemas+Whitefield+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Kids Play Area",
+      "Mobile Ticket Entry",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Movies Jayanagar",
+    "address": "No. 13, Main Road, Jayanagar, Bengaluru, Karnataka 560083",
+    "locationLink": "https://maps.google.com/?q=Skyline+Movies+Jayanagar+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Recliner Seats",
+      "Dolby Atmos",
+      "Kids Play Area",
+      "Laser Projection",
+      "4K Projection",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Movies HSR Layout",
+    "address": "No. 14, Main Road, HSR Layout, Bengaluru, Karnataka 560084",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Movies+HSR+Layout+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Dolby Atmos",
+      "Parking",
+      "Mobile Ticket Entry",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse CineHub Electronic City",
+    "address": "No. 15, Main Road, Electronic City, Bengaluru, Karnataka 560085",
+    "locationLink": "https://maps.google.com/?q=CineVerse+CineHub+Electronic+City+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Parking",
+      "4K Projection",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Movies JP Nagar",
+    "address": "No. 16, Main Road, JP Nagar, Bengaluru, Karnataka 560086",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Movies+JP+Nagar+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "EV Charging",
+      "Kids Play Area",
+      "Mobile Ticket Entry",
+      "Laser Projection",
+      "4K Projection",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity CineHub Malleshwaram",
+    "address": "No. 17, Main Road, Malleshwaram, Bengaluru, Karnataka 560087",
+    "locationLink": "https://maps.google.com/?q=Infinity+CineHub+Malleshwaram+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "Laser Projection",
+      "EV Charging",
+      "IMAX",
+      "Parking",
+      "4K Projection",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Screens Rajajinagar",
+    "address": "No. 18, Main Road, Rajajinagar, Bengaluru, Karnataka 560088",
+    "locationLink": "https://maps.google.com/?q=Aurora+Screens+Rajajinagar+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Dolby Atmos",
+      "EV Charging",
+      "Mobile Ticket Entry",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Cinemas Hebbal",
+    "address": "No. 19, Main Road, Hebbal, Bengaluru, Karnataka 560089",
+    "locationLink": "https://maps.google.com/?q=Skyline+Cinemas+Hebbal+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "IMAX",
+      "EV Charging",
+      "Food Court",
+      "Recliner Seats",
+      "Mobile Ticket Entry",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Cinema Yelahanka",
+    "address": "No. 20, Main Road, Yelahanka, Bengaluru, Karnataka 560090",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Cinema+Yelahanka+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Wheelchair Accessible",
+      "Laser Projection",
+      "Cafe",
+      "Mobile Ticket Entry",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Screens Banashankari",
+    "address": "No. 21, Main Road, Banashankari, Bengaluru, Karnataka 560091",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Screens+Banashankari+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Cafe",
+      "4K Projection",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Cinemas Marathahalli",
+    "address": "No. 22, Main Road, Marathahalli, Bengaluru, Karnataka 560092",
+    "locationLink": "https://maps.google.com/?q=Infinity+Cinemas+Marathahalli+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Laser Projection",
+      "IMAX",
+      "Food Court",
+      "4K Projection",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Cinema Bellandur",
+    "address": "No. 23, Main Road, Bellandur, Bengaluru, Karnataka 560093",
+    "locationLink": "https://maps.google.com/?q=Skyline+Cinema+Bellandur+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "EV Charging",
+      "Recliner Seats",
+      "4K Projection",
+      "Wheelchair Accessible",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Cinemas Sarjapur Road",
+    "address": "No. 24, Main Road, Sarjapur Road, Bengaluru, Karnataka 560094",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Cinemas+Sarjapur+Road+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Parking",
+      "Cafe",
+      "Food Court",
+      "EV Charging",
+      "Mobile Ticket Entry",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Multiplex Basavanagudi",
+    "address": "No. 25, Main Road, Basavanagudi, Bengaluru, Karnataka 560095",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Multiplex+Basavanagudi+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "EV Charging",
+      "Kids Play Area",
+      "Cafe",
+      "Recliner Seats",
+      "Dolby Atmos",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion CineHub Vijayanagar",
+    "address": "No. 26, Main Road, Vijayanagar, Bengaluru, Karnataka 560096",
+    "locationLink": "https://maps.google.com/?q=Orion+CineHub+Vijayanagar+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "4K Projection",
+      "IMAX",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Multiplex RR Nagar",
+    "address": "No. 27, Main Road, RR Nagar, Bengaluru, Karnataka 560097",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Multiplex+RR+Nagar+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Cafe",
+      "4K Projection",
+      "Mobile Ticket Entry",
+      "Food Court",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Screens Kengeri",
+    "address": "No. 28, Main Road, Kengeri, Bengaluru, Karnataka 560098",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Screens+Kengeri+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "Laser Projection",
+      "EV Charging",
+      "Recliner Seats",
+      "Mobile Ticket Entry",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse CineHub BTM Layout",
+    "address": "No. 29, Main Road, BTM Layout, Bengaluru, Karnataka 560099",
+    "locationLink": "https://maps.google.com/?q=CineVerse+CineHub+BTM+Layout+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "4K Projection",
+      "Dolby Atmos",
+      "IMAX",
+      "Laser Projection",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen CineHub Ulsoor",
+    "address": "No. 30, Main Road, Ulsoor, Bengaluru, Karnataka 560080",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+CineHub+Ulsoor+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Cafe",
+      "Recliner Seats",
+      "Kids Play Area",
+      "Parking",
+      "Wheelchair Accessible",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion Movies CV Raman Nagar",
+    "address": "No. 31, Main Road, CV Raman Nagar, Bengaluru, Karnataka 560081",
+    "locationLink": "https://maps.google.com/?q=Orion+Movies+CV+Raman+Nagar+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "EV Charging",
+      "IMAX",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Cinemas Frazer Town",
+    "address": "No. 32, Main Road, Frazer Town, Bengaluru, Karnataka 560082",
+    "locationLink": "https://maps.google.com/?q=Aurora+Cinemas+Frazer+Town+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Cafe",
+      "Mobile Ticket Entry",
+      "Parking",
+      "Dolby Atmos",
+      "Kids Play Area",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Multiplex Domlur",
+    "address": "No. 33, Main Road, Domlur, Bengaluru, Karnataka 560083",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Multiplex+Domlur+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "Laser Projection",
+      "Mobile Ticket Entry",
+      "IMAX",
+      "Parking",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Cinemas Nagawara",
+    "address": "No. 34, Main Road, Nagawara, Bengaluru, Karnataka 560084",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Cinemas+Nagawara+Bengaluru",
+    "facilities": [
+      "Wheelchair Accessible",
+      "Mobile Ticket Entry",
+      "Recliner Seats",
+      "Cafe",
+      "Dolby Atmos",
+      "Food Court",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Movies Koramangala",
+    "address": "No. 35, Main Road, Koramangala, Bengaluru, Karnataka 560085",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Movies+Koramangala+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Recliner Seats",
+      "Laser Projection",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Multiplex Indiranagar",
+    "address": "No. 36, Main Road, Indiranagar, Bengaluru, Karnataka 560086",
+    "locationLink": "https://maps.google.com/?q=Infinity+Multiplex+Indiranagar+Bengaluru",
+    "facilities": [
+      "Wheelchair Accessible",
+      "Mobile Ticket Entry",
+      "Kids Play Area",
+      "Food Court",
+      "4K Projection",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire CineHub Whitefield",
+    "address": "No. 37, Main Road, Whitefield, Bengaluru, Karnataka 560087",
+    "locationLink": "https://maps.google.com/?q=Sapphire+CineHub+Whitefield+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Dolby Atmos",
+      "Parking",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Screens Jayanagar",
+    "address": "No. 38, Main Road, Jayanagar, Bengaluru, Karnataka 560088",
+    "locationLink": "https://maps.google.com/?q=Skyline+Screens+Jayanagar+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "IMAX",
+      "Cafe",
+      "Wheelchair Accessible",
+      "Dolby Atmos",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Screens HSR Layout",
+    "address": "No. 39, Main Road, HSR Layout, Bengaluru, Karnataka 560089",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Screens+HSR+Layout+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Parking",
+      "Kids Play Area",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Screens Electronic City",
+    "address": "No. 40, Main Road, Electronic City, Bengaluru, Karnataka 560090",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Screens+Electronic+City+Bengaluru",
+    "facilities": [
+      "Wheelchair Accessible",
+      "Parking",
+      "Kids Play Area",
+      "Cafe",
+      "Mobile Ticket Entry",
+      "Recliner Seats",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Screens JP Nagar",
+    "address": "No. 41, Main Road, JP Nagar, Bengaluru, Karnataka 560091",
+    "locationLink": "https://maps.google.com/?q=Skyline+Screens+JP+Nagar+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "EV Charging",
+      "Parking",
+      "4K Projection",
+      "Mobile Ticket Entry",
+      "Dolby Atmos",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Multiplex Malleshwaram",
+    "address": "No. 42, Main Road, Malleshwaram, Bengaluru, Karnataka 560092",
+    "locationLink": "https://maps.google.com/?q=Crystal+Multiplex+Malleshwaram+Bengaluru",
+    "facilities": [
+      "Parking",
+      "IMAX",
+      "4K Projection",
+      "Kids Play Area",
+      "Wheelchair Accessible",
+      "Food Court",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Multiplex Rajajinagar",
+    "address": "No. 43, Main Road, Rajajinagar, Bengaluru, Karnataka 560093",
+    "locationLink": "https://maps.google.com/?q=Skyline+Multiplex+Rajajinagar+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "EV Charging",
+      "Kids Play Area",
+      "IMAX",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline CineHub Hebbal",
+    "address": "No. 44, Main Road, Hebbal, Bengaluru, Karnataka 560094",
+    "locationLink": "https://maps.google.com/?q=Skyline+CineHub+Hebbal+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Dolby Atmos",
+      "Wheelchair Accessible",
+      "IMAX",
+      "Laser Projection",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Cinemas Yelahanka",
+    "address": "No. 45, Main Road, Yelahanka, Bengaluru, Karnataka 560095",
+    "locationLink": "https://maps.google.com/?q=Infinity+Cinemas+Yelahanka+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "EV Charging",
+      "Dolby Atmos",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion CineHub Banashankari",
+    "address": "No. 46, Main Road, Banashankari, Bengaluru, Karnataka 560096",
+    "locationLink": "https://maps.google.com/?q=Orion+CineHub+Banashankari+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Wheelchair Accessible",
+      "Cafe",
+      "Kids Play Area",
+      "Mobile Ticket Entry",
+      "Recliner Seats",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinemas Marathahalli",
+    "address": "No. 47, Main Road, Marathahalli, Bengaluru, Karnataka 560097",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinemas+Marathahalli+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "Dolby Atmos",
+      "Wheelchair Accessible",
+      "Kids Play Area",
+      "Mobile Ticket Entry",
+      "Recliner Seats",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion Cinema Bellandur",
+    "address": "No. 48, Main Road, Bellandur, Bengaluru, Karnataka 560098",
+    "locationLink": "https://maps.google.com/?q=Orion+Cinema+Bellandur+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Dolby Atmos",
+      "EV Charging",
+      "Kids Play Area",
+      "Laser Projection",
+      "Wheelchair Accessible",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Screens Sarjapur Road",
+    "address": "No. 49, Main Road, Sarjapur Road, Bengaluru, Karnataka 560099",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Screens+Sarjapur+Road+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "Laser Projection",
+      "Wheelchair Accessible",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Screens Basavanagudi",
+    "address": "No. 50, Main Road, Basavanagudi, Bengaluru, Karnataka 560080",
+    "locationLink": "https://maps.google.com/?q=Infinity+Screens+Basavanagudi+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Food Court",
+      "Laser Projection",
+      "EV Charging",
+      "Recliner Seats",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Screens Vijayanagar",
+    "address": "No. 51, Main Road, Vijayanagar, Bengaluru, Karnataka 560081",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Screens+Vijayanagar+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Dolby Atmos",
+      "4K Projection",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Cinema RR Nagar",
+    "address": "No. 52, Main Road, RR Nagar, Bengaluru, Karnataka 560082",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Cinema+RR+Nagar+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "IMAX",
+      "Dolby Atmos",
+      "Parking",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Cinemas Kengeri",
+    "address": "No. 53, Main Road, Kengeri, Bengaluru, Karnataka 560083",
+    "locationLink": "https://maps.google.com/?q=Aurora+Cinemas+Kengeri+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Laser Projection",
+      "Dolby Atmos",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Cinemas BTM Layout",
+    "address": "No. 54, Main Road, BTM Layout, Bengaluru, Karnataka 560084",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Cinemas+BTM+Layout+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Cafe",
+      "Parking",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Cinemas Ulsoor",
+    "address": "No. 55, Main Road, Ulsoor, Bengaluru, Karnataka 560085",
+    "locationLink": "https://maps.google.com/?q=Infinity+Cinemas+Ulsoor+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Mobile Ticket Entry",
+      "Kids Play Area",
+      "Parking",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion Cinemas CV Raman Nagar",
+    "address": "No. 56, Main Road, CV Raman Nagar, Bengaluru, Karnataka 560086",
+    "locationLink": "https://maps.google.com/?q=Orion+Cinemas+CV+Raman+Nagar+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Parking",
+      "Kids Play Area",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Cinema Frazer Town",
+    "address": "No. 57, Main Road, Frazer Town, Bengaluru, Karnataka 560087",
+    "locationLink": "https://maps.google.com/?q=Infinity+Cinema+Frazer+Town+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Dolby Atmos",
+      "4K Projection",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Screens Domlur",
+    "address": "No. 58, Main Road, Domlur, Bengaluru, Karnataka 560088",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Screens+Domlur+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Cafe",
+      "Recliner Seats",
+      "IMAX",
+      "Dolby Atmos"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Movies Nagawara",
+    "address": "No. 59, Main Road, Nagawara, Bengaluru, Karnataka 560089",
+    "locationLink": "https://maps.google.com/?q=Skyline+Movies+Nagawara+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "4K Projection",
+      "Recliner Seats",
+      "Food Court",
+      "EV Charging",
+      "Mobile Ticket Entry",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex CineHub Koramangala",
+    "address": "No. 60, Main Road, Koramangala, Bengaluru, Karnataka 560090",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+CineHub+Koramangala+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Parking",
+      "Laser Projection",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Movies Indiranagar",
+    "address": "No. 61, Main Road, Indiranagar, Bengaluru, Karnataka 560091",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Movies+Indiranagar+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "EV Charging",
+      "Wheelchair Accessible",
+      "Recliner Seats",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity CineHub Whitefield",
+    "address": "No. 62, Main Road, Whitefield, Bengaluru, Karnataka 560092",
+    "locationLink": "https://maps.google.com/?q=Infinity+CineHub+Whitefield+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "Cafe",
+      "IMAX",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire CineHub Jayanagar",
+    "address": "No. 63, Main Road, Jayanagar, Bengaluru, Karnataka 560093",
+    "locationLink": "https://maps.google.com/?q=Sapphire+CineHub+Jayanagar+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "Wheelchair Accessible",
+      "Mobile Ticket Entry",
+      "Kids Play Area",
+      "Cafe",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire CineHub HSR Layout",
+    "address": "No. 64, Main Road, HSR Layout, Bengaluru, Karnataka 560094",
+    "locationLink": "https://maps.google.com/?q=Sapphire+CineHub+HSR+Layout+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Recliner Seats",
+      "Food Court",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Multiplex Electronic City",
+    "address": "No. 65, Main Road, Electronic City, Bengaluru, Karnataka 560095",
+    "locationLink": "https://maps.google.com/?q=Aurora+Multiplex+Electronic+City+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "Dolby Atmos",
+      "Food Court",
+      "Kids Play Area",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Screens JP Nagar",
+    "address": "No. 66, Main Road, JP Nagar, Bengaluru, Karnataka 560096",
+    "locationLink": "https://maps.google.com/?q=Crystal+Screens+JP+Nagar+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Dolby Atmos",
+      "Parking",
+      "Food Court",
+      "4K Projection",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinemas Malleshwaram",
+    "address": "No. 67, Main Road, Malleshwaram, Bengaluru, Karnataka 560097",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinemas+Malleshwaram+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Wheelchair Accessible",
+      "Kids Play Area",
+      "IMAX",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Cinema Rajajinagar",
+    "address": "No. 68, Main Road, Rajajinagar, Bengaluru, Karnataka 560098",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Cinema+Rajajinagar+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Laser Projection",
+      "Mobile Ticket Entry",
+      "Recliner Seats",
+      "Parking",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Multiplex Hebbal",
+    "address": "No. 69, Main Road, Hebbal, Bengaluru, Karnataka 560099",
+    "locationLink": "https://maps.google.com/?q=Skyline+Multiplex+Hebbal+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Dolby Atmos",
+      "Laser Projection",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinemas Yelahanka",
+    "address": "No. 70, Main Road, Yelahanka, Bengaluru, Karnataka 560080",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinemas+Yelahanka+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "IMAX",
+      "Wheelchair Accessible",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Cinema Banashankari",
+    "address": "No. 71, Main Road, Banashankari, Bengaluru, Karnataka 560081",
+    "locationLink": "https://maps.google.com/?q=Infinity+Cinema+Banashankari+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "Mobile Ticket Entry",
+      "Dolby Atmos",
+      "Laser Projection",
+      "EV Charging",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Cinema Marathahalli",
+    "address": "No. 72, Main Road, Marathahalli, Bengaluru, Karnataka 560082",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Cinema+Marathahalli+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Food Court",
+      "Mobile Ticket Entry",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Movies Bellandur",
+    "address": "No. 73, Main Road, Bellandur, Bengaluru, Karnataka 560083",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Movies+Bellandur+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Dolby Atmos",
+      "Mobile Ticket Entry",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion Screens Sarjapur Road",
+    "address": "No. 74, Main Road, Sarjapur Road, Bengaluru, Karnataka 560084",
+    "locationLink": "https://maps.google.com/?q=Orion+Screens+Sarjapur+Road+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Mobile Ticket Entry",
+      "IMAX",
+      "Wheelchair Accessible",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse CineHub Basavanagudi",
+    "address": "No. 75, Main Road, Basavanagudi, Bengaluru, Karnataka 560085",
+    "locationLink": "https://maps.google.com/?q=CineVerse+CineHub+Basavanagudi+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "EV Charging",
+      "Food Court",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Cinema Vijayanagar",
+    "address": "No. 76, Main Road, Vijayanagar, Bengaluru, Karnataka 560086",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Cinema+Vijayanagar+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "Mobile Ticket Entry",
+      "IMAX",
+      "Recliner Seats",
+      "Dolby Atmos",
+      "Wheelchair Accessible",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Screens RR Nagar",
+    "address": "No. 77, Main Road, RR Nagar, Bengaluru, Karnataka 560087",
+    "locationLink": "https://maps.google.com/?q=Skyline+Screens+RR+Nagar+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "Mobile Ticket Entry",
+      "4K Projection",
+      "Kids Play Area",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen CineHub Kengeri",
+    "address": "No. 78, Main Road, Kengeri, Bengaluru, Karnataka 560088",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+CineHub+Kengeri+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Parking",
+      "Wheelchair Accessible",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinemas BTM Layout",
+    "address": "No. 79, Main Road, BTM Layout, Bengaluru, Karnataka 560089",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinemas+BTM+Layout+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "IMAX",
+      "Parking",
+      "Mobile Ticket Entry",
+      "Laser Projection",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Cinema Ulsoor",
+    "address": "No. 80, Main Road, Ulsoor, Bengaluru, Karnataka 560090",
+    "locationLink": "https://maps.google.com/?q=Crystal+Cinema+Ulsoor+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Dolby Atmos",
+      "Parking",
+      "Food Court",
+      "Wheelchair Accessible",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Cinema CV Raman Nagar",
+    "address": "No. 81, Main Road, CV Raman Nagar, Bengaluru, Karnataka 560091",
+    "locationLink": "https://maps.google.com/?q=Aurora+Cinema+CV+Raman+Nagar+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Wheelchair Accessible",
+      "Parking",
+      "Food Court",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Cinema Frazer Town",
+    "address": "No. 82, Main Road, Frazer Town, Bengaluru, Karnataka 560092",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Cinema+Frazer+Town+Bengaluru",
+    "facilities": [
+      "Wheelchair Accessible",
+      "Food Court",
+      "Kids Play Area",
+      "Dolby Atmos"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Screens Domlur",
+    "address": "No. 83, Main Road, Domlur, Bengaluru, Karnataka 560093",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Screens+Domlur+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "4K Projection",
+      "Dolby Atmos",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinemas Nagawara",
+    "address": "No. 84, Main Road, Nagawara, Bengaluru, Karnataka 560094",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinemas+Nagawara+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "Laser Projection",
+      "Dolby Atmos",
+      "Food Court",
+      "IMAX",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Screens Koramangala",
+    "address": "No. 85, Main Road, Koramangala, Bengaluru, Karnataka 560095",
+    "locationLink": "https://maps.google.com/?q=Crystal+Screens+Koramangala+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "EV Charging",
+      "Dolby Atmos",
+      "Recliner Seats",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora CineHub Indiranagar",
+    "address": "No. 86, Main Road, Indiranagar, Bengaluru, Karnataka 560096",
+    "locationLink": "https://maps.google.com/?q=Aurora+CineHub+Indiranagar+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Dolby Atmos",
+      "Parking",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Movies Whitefield",
+    "address": "No. 87, Main Road, Whitefield, Bengaluru, Karnataka 560097",
+    "locationLink": "https://maps.google.com/?q=Skyline+Movies+Whitefield+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "4K Projection",
+      "EV Charging",
+      "Recliner Seats",
+      "Parking",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Cinema Jayanagar",
+    "address": "No. 88, Main Road, Jayanagar, Bengaluru, Karnataka 560098",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Cinema+Jayanagar+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "Recliner Seats",
+      "Mobile Ticket Entry",
+      "Parking",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Movies HSR Layout",
+    "address": "No. 89, Main Road, HSR Layout, Bengaluru, Karnataka 560099",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Movies+HSR+Layout+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "EV Charging",
+      "Food Court",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Cinema Electronic City",
+    "address": "No. 90, Main Road, Electronic City, Bengaluru, Karnataka 560080",
+    "locationLink": "https://maps.google.com/?q=Aurora+Cinema+Electronic+City+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Wheelchair Accessible",
+      "Laser Projection",
+      "Recliner Seats",
+      "Dolby Atmos",
+      "Parking",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Cinemas JP Nagar",
+    "address": "No. 91, Main Road, JP Nagar, Bengaluru, Karnataka 560081",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Cinemas+JP+Nagar+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "Cafe",
+      "EV Charging",
+      "Parking",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Multiplex Malleshwaram",
+    "address": "No. 92, Main Road, Malleshwaram, Bengaluru, Karnataka 560082",
+    "locationLink": "https://maps.google.com/?q=Crystal+Multiplex+Malleshwaram+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Mobile Ticket Entry",
+      "Wheelchair Accessible",
+      "Recliner Seats",
+      "Parking",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion CineHub Rajajinagar",
+    "address": "No. 93, Main Road, Rajajinagar, Bengaluru, Karnataka 560083",
+    "locationLink": "https://maps.google.com/?q=Orion+CineHub+Rajajinagar+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Cafe",
+      "Laser Projection",
+      "Parking",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Screens Hebbal",
+    "address": "No. 94, Main Road, Hebbal, Bengaluru, Karnataka 560084",
+    "locationLink": "https://maps.google.com/?q=Crystal+Screens+Hebbal+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "Recliner Seats",
+      "Mobile Ticket Entry",
+      "4K Projection",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Multiplex Yelahanka",
+    "address": "No. 95, Main Road, Yelahanka, Bengaluru, Karnataka 560085",
+    "locationLink": "https://maps.google.com/?q=Skyline+Multiplex+Yelahanka+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Parking",
+      "Mobile Ticket Entry",
+      "IMAX",
+      "Dolby Atmos",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen CineHub Banashankari",
+    "address": "No. 96, Main Road, Banashankari, Bengaluru, Karnataka 560086",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+CineHub+Banashankari+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "EV Charging",
+      "IMAX",
+      "Dolby Atmos"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Multiplex Marathahalli",
+    "address": "No. 97, Main Road, Marathahalli, Bengaluru, Karnataka 560087",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Multiplex+Marathahalli+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Recliner Seats",
+      "Food Court",
+      "IMAX",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion Screens Bellandur",
+    "address": "No. 98, Main Road, Bellandur, Bengaluru, Karnataka 560088",
+    "locationLink": "https://maps.google.com/?q=Orion+Screens+Bellandur+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "4K Projection",
+      "Dolby Atmos",
+      "Mobile Ticket Entry",
+      "EV Charging",
+      "IMAX",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Movies Sarjapur Road",
+    "address": "No. 99, Main Road, Sarjapur Road, Bengaluru, Karnataka 560089",
+    "locationLink": "https://maps.google.com/?q=Skyline+Movies+Sarjapur+Road+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "EV Charging",
+      "Parking",
+      "Food Court",
+      "Cafe",
+      "4K Projection",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Screens Basavanagudi",
+    "address": "No. 100, Main Road, Basavanagudi, Bengaluru, Karnataka 560090",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Screens+Basavanagudi+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Recliner Seats",
+      "IMAX",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Movies Vijayanagar",
+    "address": "No. 101, Main Road, Vijayanagar, Bengaluru, Karnataka 560091",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Movies+Vijayanagar+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Kids Play Area",
+      "Mobile Ticket Entry",
+      "4K Projection",
+      "Cafe",
+      "Food Court",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Multiplex RR Nagar",
+    "address": "No. 102, Main Road, RR Nagar, Bengaluru, Karnataka 560092",
+    "locationLink": "https://maps.google.com/?q=Infinity+Multiplex+RR+Nagar+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "Parking",
+      "Kids Play Area",
+      "Cafe",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Screens Kengeri",
+    "address": "No. 103, Main Road, Kengeri, Bengaluru, Karnataka 560093",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Screens+Kengeri+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "Laser Projection",
+      "IMAX",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Multiplex BTM Layout",
+    "address": "No. 104, Main Road, BTM Layout, Bengaluru, Karnataka 560094",
+    "locationLink": "https://maps.google.com/?q=Infinity+Multiplex+BTM+Layout+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "EV Charging",
+      "Mobile Ticket Entry",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity CineHub Ulsoor",
+    "address": "No. 105, Main Road, Ulsoor, Bengaluru, Karnataka 560095",
+    "locationLink": "https://maps.google.com/?q=Infinity+CineHub+Ulsoor+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "Recliner Seats",
+      "Mobile Ticket Entry",
+      "EV Charging",
+      "Dolby Atmos"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen CineHub CV Raman Nagar",
+    "address": "No. 106, Main Road, CV Raman Nagar, Bengaluru, Karnataka 560096",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+CineHub+CV+Raman+Nagar+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "Cafe",
+      "Wheelchair Accessible",
+      "Recliner Seats",
+      "Mobile Ticket Entry",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Cinema Frazer Town",
+    "address": "No. 107, Main Road, Frazer Town, Bengaluru, Karnataka 560097",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Cinema+Frazer+Town+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Food Court",
+      "4K Projection",
+      "IMAX",
+      "Recliner Seats",
+      "Parking",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Screens Domlur",
+    "address": "No. 108, Main Road, Domlur, Bengaluru, Karnataka 560098",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Screens+Domlur+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Cafe",
+      "4K Projection",
+      "Laser Projection",
+      "Wheelchair Accessible",
+      "Dolby Atmos",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Cinema Nagawara",
+    "address": "No. 109, Main Road, Nagawara, Bengaluru, Karnataka 560099",
+    "locationLink": "https://maps.google.com/?q=Infinity+Cinema+Nagawara+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Mobile Ticket Entry",
+      "Cafe",
+      "EV Charging",
+      "4K Projection",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Screens Koramangala",
+    "address": "No. 110, Main Road, Koramangala, Bengaluru, Karnataka 560080",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Screens+Koramangala+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Cafe",
+      "Laser Projection",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Screens Indiranagar",
+    "address": "No. 111, Main Road, Indiranagar, Bengaluru, Karnataka 560081",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Screens+Indiranagar+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "Cafe",
+      "IMAX",
+      "Parking",
+      "Dolby Atmos",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Multiplex Whitefield",
+    "address": "No. 112, Main Road, Whitefield, Bengaluru, Karnataka 560082",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Multiplex+Whitefield+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Wheelchair Accessible",
+      "Laser Projection",
+      "4K Projection",
+      "Recliner Seats",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion Cinemas Jayanagar",
+    "address": "No. 113, Main Road, Jayanagar, Bengaluru, Karnataka 560083",
+    "locationLink": "https://maps.google.com/?q=Orion+Cinemas+Jayanagar+Bengaluru",
+    "facilities": [
+      "Wheelchair Accessible",
+      "Food Court",
+      "IMAX",
+      "Dolby Atmos"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Movies HSR Layout",
+    "address": "No. 114, Main Road, HSR Layout, Bengaluru, Karnataka 560084",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Movies+HSR+Layout+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Recliner Seats",
+      "Food Court",
+      "Dolby Atmos",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Screens Electronic City",
+    "address": "No. 115, Main Road, Electronic City, Bengaluru, Karnataka 560085",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Screens+Electronic+City+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "Mobile Ticket Entry",
+      "4K Projection",
+      "Kids Play Area",
+      "Dolby Atmos"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Multiplex JP Nagar",
+    "address": "No. 116, Main Road, JP Nagar, Bengaluru, Karnataka 560086",
+    "locationLink": "https://maps.google.com/?q=Skyline+Multiplex+JP+Nagar+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Food Court",
+      "Kids Play Area",
+      "Wheelchair Accessible",
+      "EV Charging",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal CineHub Malleshwaram",
+    "address": "No. 117, Main Road, Malleshwaram, Bengaluru, Karnataka 560087",
+    "locationLink": "https://maps.google.com/?q=Crystal+CineHub+Malleshwaram+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "IMAX",
+      "Mobile Ticket Entry",
+      "Wheelchair Accessible",
+      "Laser Projection",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire CineHub Rajajinagar",
+    "address": "No. 118, Main Road, Rajajinagar, Bengaluru, Karnataka 560088",
+    "locationLink": "https://maps.google.com/?q=Sapphire+CineHub+Rajajinagar+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "IMAX",
+      "Food Court",
+      "Kids Play Area",
+      "Recliner Seats",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Cinemas Hebbal",
+    "address": "No. 119, Main Road, Hebbal, Bengaluru, Karnataka 560089",
+    "locationLink": "https://maps.google.com/?q=Aurora+Cinemas+Hebbal+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "4K Projection",
+      "IMAX",
+      "Cafe",
+      "Dolby Atmos",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Cinema Yelahanka",
+    "address": "No. 120, Main Road, Yelahanka, Bengaluru, Karnataka 560090",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Cinema+Yelahanka+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "EV Charging",
+      "Laser Projection",
+      "Cafe",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal CineHub Banashankari",
+    "address": "No. 121, Main Road, Banashankari, Bengaluru, Karnataka 560091",
+    "locationLink": "https://maps.google.com/?q=Crystal+CineHub+Banashankari+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "Food Court",
+      "Parking",
+      "Dolby Atmos",
+      "EV Charging",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Cinema Marathahalli",
+    "address": "No. 122, Main Road, Marathahalli, Bengaluru, Karnataka 560092",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Cinema+Marathahalli+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "IMAX",
+      "Dolby Atmos",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire CineHub Bellandur",
+    "address": "No. 123, Main Road, Bellandur, Bengaluru, Karnataka 560093",
+    "locationLink": "https://maps.google.com/?q=Sapphire+CineHub+Bellandur+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Cafe",
+      "4K Projection",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Multiplex Sarjapur Road",
+    "address": "No. 124, Main Road, Sarjapur Road, Bengaluru, Karnataka 560094",
+    "locationLink": "https://maps.google.com/?q=Infinity+Multiplex+Sarjapur+Road+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Wheelchair Accessible",
+      "Parking",
+      "4K Projection",
+      "Cafe",
+      "Laser Projection",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire CineHub Basavanagudi",
+    "address": "No. 125, Main Road, Basavanagudi, Bengaluru, Karnataka 560095",
+    "locationLink": "https://maps.google.com/?q=Sapphire+CineHub+Basavanagudi+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "EV Charging",
+      "IMAX",
+      "Mobile Ticket Entry",
+      "Cafe",
+      "Kids Play Area",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Cinemas Vijayanagar",
+    "address": "No. 126, Main Road, Vijayanagar, Bengaluru, Karnataka 560096",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Cinemas+Vijayanagar+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Food Court",
+      "Cafe",
+      "Parking",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse CineHub RR Nagar",
+    "address": "No. 127, Main Road, RR Nagar, Bengaluru, Karnataka 560097",
+    "locationLink": "https://maps.google.com/?q=CineVerse+CineHub+RR+Nagar+Bengaluru",
+    "facilities": [
+      "Parking",
+      "IMAX",
+      "Dolby Atmos",
+      "Recliner Seats",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion CineHub Kengeri",
+    "address": "No. 128, Main Road, Kengeri, Bengaluru, Karnataka 560098",
+    "locationLink": "https://maps.google.com/?q=Orion+CineHub+Kengeri+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "EV Charging",
+      "Recliner Seats",
+      "Laser Projection",
+      "Mobile Ticket Entry",
+      "Food Court",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Movies BTM Layout",
+    "address": "No. 129, Main Road, BTM Layout, Bengaluru, Karnataka 560099",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Movies+BTM+Layout+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "IMAX",
+      "Cafe",
+      "Wheelchair Accessible",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Cinema Ulsoor",
+    "address": "No. 130, Main Road, Ulsoor, Bengaluru, Karnataka 560080",
+    "locationLink": "https://maps.google.com/?q=Skyline+Cinema+Ulsoor+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "EV Charging",
+      "4K Projection",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Screens CV Raman Nagar",
+    "address": "No. 131, Main Road, CV Raman Nagar, Bengaluru, Karnataka 560081",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Screens+CV+Raman+Nagar+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "IMAX",
+      "Dolby Atmos",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Cinema Frazer Town",
+    "address": "No. 132, Main Road, Frazer Town, Bengaluru, Karnataka 560082",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Cinema+Frazer+Town+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "Mobile Ticket Entry",
+      "IMAX",
+      "EV Charging",
+      "Parking",
+      "Dolby Atmos"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Multiplex Domlur",
+    "address": "No. 133, Main Road, Domlur, Bengaluru, Karnataka 560083",
+    "locationLink": "https://maps.google.com/?q=Aurora+Multiplex+Domlur+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Mobile Ticket Entry",
+      "4K Projection",
+      "EV Charging",
+      "IMAX",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse CineHub Nagawara",
+    "address": "No. 134, Main Road, Nagawara, Bengaluru, Karnataka 560084",
+    "locationLink": "https://maps.google.com/?q=CineVerse+CineHub+Nagawara+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Laser Projection",
+      "Parking",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinemas Koramangala",
+    "address": "No. 135, Main Road, Koramangala, Bengaluru, Karnataka 560085",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinemas+Koramangala+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "Parking",
+      "Recliner Seats",
+      "Wheelchair Accessible",
+      "4K Projection",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Screens Indiranagar",
+    "address": "No. 136, Main Road, Indiranagar, Bengaluru, Karnataka 560086",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Screens+Indiranagar+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Wheelchair Accessible",
+      "Cafe",
+      "Mobile Ticket Entry",
+      "Recliner Seats",
+      "Kids Play Area",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Cinemas Whitefield",
+    "address": "No. 137, Main Road, Whitefield, Bengaluru, Karnataka 560087",
+    "locationLink": "https://maps.google.com/?q=Aurora+Cinemas+Whitefield+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Kids Play Area",
+      "Cafe",
+      "Mobile Ticket Entry",
+      "EV Charging",
+      "Wheelchair Accessible",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Multiplex Jayanagar",
+    "address": "No. 138, Main Road, Jayanagar, Bengaluru, Karnataka 560088",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Multiplex+Jayanagar+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Recliner Seats",
+      "Parking",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Multiplex HSR Layout",
+    "address": "No. 139, Main Road, HSR Layout, Bengaluru, Karnataka 560089",
+    "locationLink": "https://maps.google.com/?q=Crystal+Multiplex+HSR+Layout+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Laser Projection",
+      "Wheelchair Accessible",
+      "Dolby Atmos",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen CineHub Electronic City",
+    "address": "No. 140, Main Road, Electronic City, Bengaluru, Karnataka 560090",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+CineHub+Electronic+City+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Mobile Ticket Entry",
+      "Wheelchair Accessible",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire CineHub JP Nagar",
+    "address": "No. 141, Main Road, JP Nagar, Bengaluru, Karnataka 560091",
+    "locationLink": "https://maps.google.com/?q=Sapphire+CineHub+JP+Nagar+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Parking",
+      "Recliner Seats",
+      "Kids Play Area",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline CineHub Malleshwaram",
+    "address": "No. 142, Main Road, Malleshwaram, Bengaluru, Karnataka 560092",
+    "locationLink": "https://maps.google.com/?q=Skyline+CineHub+Malleshwaram+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "EV Charging",
+      "Cafe",
+      "Food Court",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse CineHub Rajajinagar",
+    "address": "No. 143, Main Road, Rajajinagar, Bengaluru, Karnataka 560093",
+    "locationLink": "https://maps.google.com/?q=CineVerse+CineHub+Rajajinagar+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Wheelchair Accessible",
+      "Recliner Seats",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy CineHub Hebbal",
+    "address": "No. 144, Main Road, Hebbal, Bengaluru, Karnataka 560094",
+    "locationLink": "https://maps.google.com/?q=Galaxy+CineHub+Hebbal+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Kids Play Area",
+      "Cafe",
+      "EV Charging",
+      "Wheelchair Accessible",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Multiplex Yelahanka",
+    "address": "No. 145, Main Road, Yelahanka, Bengaluru, Karnataka 560095",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Multiplex+Yelahanka+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "4K Projection",
+      "IMAX",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Movies Banashankari",
+    "address": "No. 146, Main Road, Banashankari, Bengaluru, Karnataka 560096",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Movies+Banashankari+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "EV Charging",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinemas Marathahalli",
+    "address": "No. 147, Main Road, Marathahalli, Bengaluru, Karnataka 560097",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinemas+Marathahalli+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "4K Projection",
+      "Parking",
+      "Cafe",
+      "Recliner Seats",
+      "Laser Projection",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Cinemas Bellandur",
+    "address": "No. 148, Main Road, Bellandur, Bengaluru, Karnataka 560098",
+    "locationLink": "https://maps.google.com/?q=Crystal+Cinemas+Bellandur+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "Laser Projection",
+      "Recliner Seats",
+      "IMAX",
+      "EV Charging",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Screens Sarjapur Road",
+    "address": "No. 149, Main Road, Sarjapur Road, Bengaluru, Karnataka 560099",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Screens+Sarjapur+Road+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "IMAX",
+      "Wheelchair Accessible",
+      "Laser Projection",
+      "Kids Play Area",
+      "Dolby Atmos",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Movies Basavanagudi",
+    "address": "No. 150, Main Road, Basavanagudi, Bengaluru, Karnataka 560080",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Movies+Basavanagudi+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Recliner Seats",
+      "Laser Projection",
+      "IMAX",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Screens Vijayanagar",
+    "address": "No. 151, Main Road, Vijayanagar, Bengaluru, Karnataka 560081",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Screens+Vijayanagar+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Cafe",
+      "Wheelchair Accessible",
+      "Mobile Ticket Entry",
+      "4K Projection",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinema RR Nagar",
+    "address": "No. 152, Main Road, RR Nagar, Bengaluru, Karnataka 560082",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinema+RR+Nagar+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Food Court",
+      "EV Charging",
+      "4K Projection",
+      "Laser Projection",
+      "Cafe",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse CineHub Kengeri",
+    "address": "No. 153, Main Road, Kengeri, Bengaluru, Karnataka 560083",
+    "locationLink": "https://maps.google.com/?q=CineVerse+CineHub+Kengeri+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Wheelchair Accessible",
+      "Dolby Atmos",
+      "4K Projection",
+      "EV Charging",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Movies BTM Layout",
+    "address": "No. 154, Main Road, BTM Layout, Bengaluru, Karnataka 560084",
+    "locationLink": "https://maps.google.com/?q=Crystal+Movies+BTM+Layout+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Kids Play Area",
+      "Dolby Atmos",
+      "Food Court",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Screens Ulsoor",
+    "address": "No. 155, Main Road, Ulsoor, Bengaluru, Karnataka 560085",
+    "locationLink": "https://maps.google.com/?q=Crystal+Screens+Ulsoor+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Mobile Ticket Entry",
+      "Parking",
+      "Wheelchair Accessible",
+      "Recliner Seats",
+      "4K Projection",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex Cinema CV Raman Nagar",
+    "address": "No. 156, Main Road, CV Raman Nagar, Bengaluru, Karnataka 560086",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+Cinema+CV+Raman+Nagar+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Laser Projection",
+      "Cafe",
+      "Dolby Atmos",
+      "IMAX",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora CineHub Frazer Town",
+    "address": "No. 157, Main Road, Frazer Town, Bengaluru, Karnataka 560087",
+    "locationLink": "https://maps.google.com/?q=Aurora+CineHub+Frazer+Town+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Dolby Atmos",
+      "Food Court",
+      "Recliner Seats",
+      "Mobile Ticket Entry",
+      "Laser Projection",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Multiplex Domlur",
+    "address": "No. 158, Main Road, Domlur, Bengaluru, Karnataka 560088",
+    "locationLink": "https://maps.google.com/?q=Skyline+Multiplex+Domlur+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Dolby Atmos",
+      "Kids Play Area",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Cinemas Nagawara",
+    "address": "No. 159, Main Road, Nagawara, Bengaluru, Karnataka 560089",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Cinemas+Nagawara+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Wheelchair Accessible",
+      "EV Charging",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Screens Koramangala",
+    "address": "No. 160, Main Road, Koramangala, Bengaluru, Karnataka 560090",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Screens+Koramangala+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "EV Charging",
+      "4K Projection",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Movies Indiranagar",
+    "address": "No. 161, Main Road, Indiranagar, Bengaluru, Karnataka 560091",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Movies+Indiranagar+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Food Court",
+      "EV Charging",
+      "Dolby Atmos",
+      "4K Projection",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Multiplex Whitefield",
+    "address": "No. 162, Main Road, Whitefield, Bengaluru, Karnataka 560092",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Multiplex+Whitefield+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "IMAX",
+      "Food Court",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse CineHub Jayanagar",
+    "address": "No. 163, Main Road, Jayanagar, Bengaluru, Karnataka 560093",
+    "locationLink": "https://maps.google.com/?q=CineVerse+CineHub+Jayanagar+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "Cafe",
+      "Parking",
+      "4K Projection",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Screens HSR Layout",
+    "address": "No. 164, Main Road, HSR Layout, Bengaluru, Karnataka 560094",
+    "locationLink": "https://maps.google.com/?q=Aurora+Screens+HSR+Layout+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "Mobile Ticket Entry",
+      "Dolby Atmos",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Movies Electronic City",
+    "address": "No. 165, Main Road, Electronic City, Bengaluru, Karnataka 560095",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Movies+Electronic+City+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Food Court",
+      "IMAX",
+      "Recliner Seats",
+      "Wheelchair Accessible",
+      "EV Charging",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Cinema JP Nagar",
+    "address": "No. 166, Main Road, JP Nagar, Bengaluru, Karnataka 560096",
+    "locationLink": "https://maps.google.com/?q=Infinity+Cinema+JP+Nagar+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Parking",
+      "4K Projection",
+      "Kids Play Area",
+      "Dolby Atmos",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "MetroPlex CineHub Malleshwaram",
+    "address": "No. 167, Main Road, Malleshwaram, Bengaluru, Karnataka 560097",
+    "locationLink": "https://maps.google.com/?q=MetroPlex+CineHub+Malleshwaram+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Dolby Atmos",
+      "Wheelchair Accessible",
+      "Kids Play Area",
+      "Food Court",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Multiplex Rajajinagar",
+    "address": "No. 168, Main Road, Rajajinagar, Bengaluru, Karnataka 560098",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Multiplex+Rajajinagar+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Food Court",
+      "Mobile Ticket Entry",
+      "Wheelchair Accessible",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Multiplex Hebbal",
+    "address": "No. 169, Main Road, Hebbal, Bengaluru, Karnataka 560099",
+    "locationLink": "https://maps.google.com/?q=Aurora+Multiplex+Hebbal+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Parking",
+      "Cafe",
+      "Mobile Ticket Entry",
+      "Laser Projection",
+      "EV Charging",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Cinema Yelahanka",
+    "address": "No. 170, Main Road, Yelahanka, Bengaluru, Karnataka 560080",
+    "locationLink": "https://maps.google.com/?q=Crystal+Cinema+Yelahanka+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Mobile Ticket Entry",
+      "Cafe",
+      "Dolby Atmos",
+      "Kids Play Area",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinema Banashankari",
+    "address": "No. 171, Main Road, Banashankari, Bengaluru, Karnataka 560081",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinema+Banashankari+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "EV Charging",
+      "Parking",
+      "Wheelchair Accessible",
+      "Dolby Atmos",
+      "Kids Play Area",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Multiplex Marathahalli",
+    "address": "No. 172, Main Road, Marathahalli, Bengaluru, Karnataka 560082",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Multiplex+Marathahalli+Bengaluru",
+    "facilities": [
+      "Wheelchair Accessible",
+      "Kids Play Area",
+      "Recliner Seats",
+      "Parking",
+      "Laser Projection",
+      "Mobile Ticket Entry",
+      "4K Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal CineHub Bellandur",
+    "address": "No. 173, Main Road, Bellandur, Bengaluru, Karnataka 560083",
+    "locationLink": "https://maps.google.com/?q=Crystal+CineHub+Bellandur+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "Laser Projection",
+      "4K Projection",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire CineHub Sarjapur Road",
+    "address": "No. 174, Main Road, Sarjapur Road, Bengaluru, Karnataka 560084",
+    "locationLink": "https://maps.google.com/?q=Sapphire+CineHub+Sarjapur+Road+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "Food Court",
+      "Recliner Seats",
+      "Wheelchair Accessible",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Cinemas Basavanagudi",
+    "address": "No. 175, Main Road, Basavanagudi, Bengaluru, Karnataka 560085",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Cinemas+Basavanagudi+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion Cinema Vijayanagar",
+    "address": "No. 176, Main Road, Vijayanagar, Bengaluru, Karnataka 560086",
+    "locationLink": "https://maps.google.com/?q=Orion+Cinema+Vijayanagar+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "4K Projection",
+      "Mobile Ticket Entry",
+      "Dolby Atmos",
+      "IMAX",
+      "Parking",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Movies RR Nagar",
+    "address": "No. 177, Main Road, RR Nagar, Bengaluru, Karnataka 560087",
+    "locationLink": "https://maps.google.com/?q=Skyline+Movies+RR+Nagar+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Cafe",
+      "IMAX",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Movies Kengeri",
+    "address": "No. 178, Main Road, Kengeri, Bengaluru, Karnataka 560088",
+    "locationLink": "https://maps.google.com/?q=Aurora+Movies+Kengeri+Bengaluru",
+    "facilities": [
+      "Dolby Atmos",
+      "Laser Projection",
+      "Wheelchair Accessible",
+      "Mobile Ticket Entry",
+      "4K Projection",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse CineHub BTM Layout",
+    "address": "No. 179, Main Road, BTM Layout, Bengaluru, Karnataka 560089",
+    "locationLink": "https://maps.google.com/?q=CineVerse+CineHub+BTM+Layout+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Mobile Ticket Entry",
+      "Kids Play Area",
+      "Laser Projection",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Cinema Ulsoor",
+    "address": "No. 180, Main Road, Ulsoor, Bengaluru, Karnataka 560090",
+    "locationLink": "https://maps.google.com/?q=Crystal+Cinema+Ulsoor+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "4K Projection",
+      "Dolby Atmos",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Multiplex CV Raman Nagar",
+    "address": "No. 181, Main Road, CV Raman Nagar, Bengaluru, Karnataka 560091",
+    "locationLink": "https://maps.google.com/?q=Skyline+Multiplex+CV+Raman+Nagar+Bengaluru",
+    "facilities": [
+      "Wheelchair Accessible",
+      "IMAX",
+      "Cafe",
+      "EV Charging",
+      "4K Projection",
+      "Laser Projection"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Skyline Cinemas Frazer Town",
+    "address": "No. 182, Main Road, Frazer Town, Bengaluru, Karnataka 560092",
+    "locationLink": "https://maps.google.com/?q=Skyline+Cinemas+Frazer+Town+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Parking",
+      "Kids Play Area",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity CineHub Domlur",
+    "address": "No. 183, Main Road, Domlur, Bengaluru, Karnataka 560093",
+    "locationLink": "https://maps.google.com/?q=Infinity+CineHub+Domlur+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "IMAX",
+      "Cafe",
+      "Food Court",
+      "Recliner Seats",
+      "EV Charging",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Movies Nagawara",
+    "address": "No. 184, Main Road, Nagawara, Bengaluru, Karnataka 560094",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Movies+Nagawara+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "EV Charging",
+      "Food Court",
+      "Parking",
+      "Cafe",
+      "Dolby Atmos"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Cinemas Koramangala",
+    "address": "No. 185, Main Road, Koramangala, Bengaluru, Karnataka 560095",
+    "locationLink": "https://maps.google.com/?q=Aurora+Cinemas+Koramangala+Bengaluru",
+    "facilities": [
+      "Wheelchair Accessible",
+      "Cafe",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Cinemas Indiranagar",
+    "address": "No. 186, Main Road, Indiranagar, Bengaluru, Karnataka 560096",
+    "locationLink": "https://maps.google.com/?q=Infinity+Cinemas+Indiranagar+Bengaluru",
+    "facilities": [
+      "Kids Play Area",
+      "Parking",
+      "Mobile Ticket Entry",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Screens Whitefield",
+    "address": "No. 187, Main Road, Whitefield, Bengaluru, Karnataka 560097",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Screens+Whitefield+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "EV Charging",
+      "Wheelchair Accessible",
+      "Kids Play Area",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Multiplex Jayanagar",
+    "address": "No. 188, Main Road, Jayanagar, Bengaluru, Karnataka 560098",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Multiplex+Jayanagar+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "IMAX",
+      "EV Charging",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Screens HSR Layout",
+    "address": "No. 189, Main Road, HSR Layout, Bengaluru, Karnataka 560099",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Screens+HSR+Layout+Bengaluru",
+    "facilities": [
+      "Wheelchair Accessible",
+      "Mobile Ticket Entry",
+      "IMAX",
+      "Dolby Atmos",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Cinemas Electronic City",
+    "address": "No. 190, Main Road, Electronic City, Bengaluru, Karnataka 560080",
+    "locationLink": "https://maps.google.com/?q=Infinity+Cinemas+Electronic+City+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "Cafe",
+      "4K Projection",
+      "Recliner Seats",
+      "Mobile Ticket Entry",
+      "EV Charging",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Crystal Screens JP Nagar",
+    "address": "No. 191, Main Road, JP Nagar, Bengaluru, Karnataka 560081",
+    "locationLink": "https://maps.google.com/?q=Crystal+Screens+JP+Nagar+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "4K Projection",
+      "Laser Projection",
+      "Parking",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Cinema Malleshwaram",
+    "address": "No. 192, Main Road, Malleshwaram, Bengaluru, Karnataka 560082",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Cinema+Malleshwaram+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Dolby Atmos",
+      "Mobile Ticket Entry",
+      "Laser Projection",
+      "Parking",
+      "Food Court",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion Cinema Rajajinagar",
+    "address": "No. 193, Main Road, Rajajinagar, Bengaluru, Karnataka 560083",
+    "locationLink": "https://maps.google.com/?q=Orion+Cinema+Rajajinagar+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "4K Projection",
+      "Laser Projection",
+      "Parking",
+      "Cafe",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Movies Hebbal",
+    "address": "No. 194, Main Road, Hebbal, Bengaluru, Karnataka 560084",
+    "locationLink": "https://maps.google.com/?q=Infinity+Movies+Hebbal+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "4K Projection",
+      "Food Court",
+      "Mobile Ticket Entry",
+      "Dolby Atmos",
+      "Wheelchair Accessible",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Cinema Yelahanka",
+    "address": "No. 195, Main Road, Yelahanka, Bengaluru, Karnataka 560085",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Cinema+Yelahanka+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Dolby Atmos",
+      "Parking",
+      "Mobile Ticket Entry",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora CineHub Banashankari",
+    "address": "No. 196, Main Road, Banashankari, Bengaluru, Karnataka 560086",
+    "locationLink": "https://maps.google.com/?q=Aurora+CineHub+Banashankari+Bengaluru",
+    "facilities": [
+      "EV Charging",
+      "Mobile Ticket Entry",
+      "Recliner Seats",
+      "Cafe",
+      "Laser Projection",
+      "IMAX",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinema Marathahalli",
+    "address": "No. 197, Main Road, Marathahalli, Bengaluru, Karnataka 560087",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinema+Marathahalli+Bengaluru",
+    "facilities": [
+      "Parking",
+      "EV Charging",
+      "Laser Projection",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Orion Screens Bellandur",
+    "address": "No. 198, Main Road, Bellandur, Bengaluru, Karnataka 560088",
+    "locationLink": "https://maps.google.com/?q=Orion+Screens+Bellandur+Bengaluru",
+    "facilities": [
+      "Mobile Ticket Entry",
+      "Recliner Seats",
+      "Laser Projection",
+      "Wheelchair Accessible"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Screens Sarjapur Road",
+    "address": "No. 199, Main Road, Sarjapur Road, Bengaluru, Karnataka 560089",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Screens+Sarjapur+Road+Bengaluru",
+    "facilities": [
+      "Cafe",
+      "Laser Projection",
+      "IMAX",
+      "Mobile Ticket Entry"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Cinema Basavanagudi",
+    "address": "No. 200, Main Road, Basavanagudi, Bengaluru, Karnataka 560090",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Cinema+Basavanagudi+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Laser Projection",
+      "Food Court",
+      "Parking"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Screens Vijayanagar",
+    "address": "No. 201, Main Road, Vijayanagar, Bengaluru, Karnataka 560091",
+    "locationLink": "https://maps.google.com/?q=Infinity+Screens+Vijayanagar+Bengaluru",
+    "facilities": [
+      "4K Projection",
+      "Mobile Ticket Entry",
+      "Wheelchair Accessible",
+      "IMAX"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Infinity Movies RR Nagar",
+    "address": "No. 202, Main Road, RR Nagar, Bengaluru, Karnataka 560092",
+    "locationLink": "https://maps.google.com/?q=Infinity+Movies+RR+Nagar+Bengaluru",
+    "facilities": [
+      "Recliner Seats",
+      "Dolby Atmos",
+      "IMAX",
+      "Food Court",
+      "Laser Projection",
+      "Wheelchair Accessible",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse Cinema Kengeri",
+    "address": "No. 203, Main Road, Kengeri, Bengaluru, Karnataka 560093",
+    "locationLink": "https://maps.google.com/?q=CineVerse+Cinema+Kengeri+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Laser Projection",
+      "EV Charging",
+      "4K Projection",
+      "Wheelchair Accessible",
+      "Kids Play Area",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire CineHub BTM Layout",
+    "address": "No. 204, Main Road, BTM Layout, Bengaluru, Karnataka 560094",
+    "locationLink": "https://maps.google.com/?q=Sapphire+CineHub+BTM+Layout+Bengaluru",
+    "facilities": [
+      "Wheelchair Accessible",
+      "Recliner Seats",
+      "Food Court",
+      "Mobile Ticket Entry",
+      "Dolby Atmos",
+      "EV Charging"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Sapphire Cinema Ulsoor",
+    "address": "No. 205, Main Road, Ulsoor, Bengaluru, Karnataka 560095",
+    "locationLink": "https://maps.google.com/?q=Sapphire+Cinema+Ulsoor+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Recliner Seats",
+      "IMAX",
+      "Cafe"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Galaxy Movies CV Raman Nagar",
+    "address": "No. 206, Main Road, CV Raman Nagar, Bengaluru, Karnataka 560096",
+    "locationLink": "https://maps.google.com/?q=Galaxy+Movies+CV+Raman+Nagar+Bengaluru",
+    "facilities": [
+      "Food Court",
+      "Wheelchair Accessible",
+      "4K Projection",
+      "Kids Play Area"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "CineVerse CineHub Frazer Town",
+    "address": "No. 207, Main Road, Frazer Town, Bengaluru, Karnataka 560097",
+    "locationLink": "https://maps.google.com/?q=CineVerse+CineHub+Frazer+Town+Bengaluru",
+    "facilities": [
+      "IMAX",
+      "Cafe",
+      "Wheelchair Accessible",
+      "4K Projection",
+      "Laser Projection",
+      "Dolby Atmos"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Aurora Multiplex Domlur",
+    "address": "No. 208, Main Road, Domlur, Bengaluru, Karnataka 560098",
+    "locationLink": "https://maps.google.com/?q=Aurora+Multiplex+Domlur+Bengaluru",
+    "facilities": [
+      "Laser Projection",
+      "4K Projection",
+      "Dolby Atmos",
+      "Recliner Seats"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "name": "Silver Screen Movies Nagawara",
+    "address": "No. 209, Main Road, Nagawara, Bengaluru, Karnataka 560099",
+    "locationLink": "https://maps.google.com/?q=Silver+Screen+Movies+Nagawara+Bengaluru",
+    "facilities": [
+      "Parking",
+      "Laser Projection",
+      "Dolby Atmos",
+      "Wheelchair Accessible",
+      "Food Court"
+    ],
+    "cityId": 1,
+    "city": "bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  }
+]
