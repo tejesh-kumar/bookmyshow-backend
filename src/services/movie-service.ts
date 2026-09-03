@@ -5,6 +5,7 @@ import type {
 } from '../types/dtos';
 import MovieRepository from '../repositories/movie-repository';
 import { QueryFilterObject } from '../utils/queryBuilder';
+import redisClient from '../config/redis';
 
 const movieRepository = new MovieRepository();
 
@@ -17,12 +18,26 @@ async function getMovies(
   const cursorId = cursor ?? 0;
 
   // const movies = await movieRepository.find(cursorId, movieLimit);
+  if (!filters?.length && cursorId === 0) {
+    const cachedMovies = await redisClient.get('movies:firstPage');
+    if (cachedMovies) {
+      return {
+        movies: JSON.parse(cachedMovies),
+        nextCursor: JSON.parse(cachedMovies).at(-1)?.id ?? null,
+      };
+    }
+  }
+
   const movies = await movieRepository.findMovies({
     ...(filters ? { filters } : {}),
     sort: [{ field: 'id', order: 'ASC' }],
     cursor: { id: cursorId },
     limit: movieLimit,
   });
+
+  if (!filters?.length && cursorId === 0)
+    redisClient.set('movies:firstPage', JSON.stringify(movies), { EX: 60 });
+
   const nextCursor = movies.at(-1)?.id ?? null;
   return { movies, nextCursor };
 }
