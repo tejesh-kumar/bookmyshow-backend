@@ -51,6 +51,12 @@ export class NotFoundError extends AppError {
   }
 }
 
+export class ConflictError extends AppError {
+  constructor(message: string = 'Conflict', details?: string[]) {
+    super(StatusCodes.CONFLICT, message, '', details);
+  }
+}
+
 export class DatabaseError extends AppError {
   constructor(message: string = 'Internal Server Error', details: any) {
     super(StatusCodes.INTERNAL_SERVER_ERROR, message, details);

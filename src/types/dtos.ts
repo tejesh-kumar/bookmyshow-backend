@@ -6,6 +6,14 @@ import {
   movieSchema,
   updateMovieSchema,
 } from '../models/movie-model';
+import {
+  bookingSchema,
+  bookingSeatsSchema,
+  createBookingSchema,
+  createBookingSeatsSchema,
+} from '../models/booking-model';
+
+export type NonEmptyArray<T> = [T, ...T[]];
 
 export type Movie = z.infer<typeof movieSchema>;
 export type CreateMovie = z.infer<typeof createMovieSchema>;
@@ -115,4 +123,21 @@ export type GetMoviesResponse = {
 
 export type CreateMovieResponse = {
   movieId: number | string;
+};
+
+export type ShowIdParam = {
+  showId: number;
+};
+
+export type Booking = z.infer<typeof bookingSchema>;
+
+export type BookingSeats = z.infer<typeof bookingSeatsSchema>;
+
+export type CreateBooking = z.infer<typeof createBookingSchema>;
+
+export type CreateBookingSeats = z.infer<typeof createBookingSeatsSchema>;
+
+export type CreateBookingResponse = {
+  bookingId: string | number;
+  bookingSeatsId: string | number;
 };
