@@ -17,3 +17,9 @@ export type CreateUser = z.infer<typeof createUserSchema>;
 export type UpdateUser = z.infer<typeof updateUserSchema>;
 
 export type Login = z.infer<typeof loginSchema>;
+
+export interface LoginProps {
+  email?: string;
+  phoneNumber?: string;
+  password: string;
+}

@@ -126,7 +126,7 @@ export type CreateMovieResponse = {
 };
 
 export type ShowIdParam = {
-  showId: number;
+  showId: string;
 };
 
 export type Booking = z.infer<typeof bookingSchema>;
