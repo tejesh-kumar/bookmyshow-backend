@@ -1,4 +1,5 @@
 import express from 'express';
+import cookieParser from 'cookie-parser';
 import { port } from './server-config';
 import routes from './routes';
 import { connectRedis } from './config/redis.js';
@@ -9,6 +10,7 @@ const startServer = async () => {
 
   app.use(express.json());
   app.use(express.urlencoded({ extended: true }));
+  app.use(cookieParser());
 
   app.use(routes);
 
