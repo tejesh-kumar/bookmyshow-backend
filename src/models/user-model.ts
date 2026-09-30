@@ -36,13 +36,13 @@ const userResponseSchema = UserSchema.omit({ password: true });
 
 const loginSchema = z.discriminatedUnion('authProvider', [
   z.object({
-    authProvider: z.literal('EMAIL'),
+    // authProvider: z.literal('EMAIL'),
     email: emailSchema,
     password: passwordSchema,
   }),
 
   z.object({
-    authProvider: z.literal('PHONE'),
+    // authProvider: z.literal('PHONE'),
     phoneNumber: phoneNumberSchema,
     password: passwordSchema,
   }),
