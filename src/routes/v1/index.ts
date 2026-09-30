@@ -8,7 +8,7 @@ import userRoutes from './user-routes';
 
 const router = express.Router();
 
-router.use('/user', userRoutes);
+router.use('/auth', userRoutes);
 router.use('/catalog', catalogRoutes);
 
 router.use('/movies', movieRoutes);
