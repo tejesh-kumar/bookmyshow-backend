@@ -1,5 +1,11 @@
 import { getMovies, createMovie, deleteMovieBySlug } from './movie-controller';
-import { createBooking, holdSeats } from './booking-controller';
+import { createBooking, holdSeats, getBookings } from './booking-controller';
+import {
+  createUser,
+  loginUser,
+  logoutUser,
+  refreshUserAuth,
+} from './user-controller';
 
 export const MovieController = {
   createMovie,
@@ -10,4 +16,12 @@ export const MovieController = {
 export const BookingController = {
   createBooking,
   holdSeats,
+  getBookings,
+};
+
+export const UserController = {
+  createUser,
+  loginUser,
+  logoutUser,
+  refreshUserAuth,
 };

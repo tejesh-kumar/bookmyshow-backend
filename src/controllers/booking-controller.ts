@@ -8,7 +8,7 @@ import { ShowIdParam } from '../types/dtos';
 export async function holdSeats(req: Request<ShowIdParam>, res: Response) {
   const { showId } = req.params;
   const { seats } = req.body;
-  const userId = 1; // replace userId after auth is implemented
+  const userId = req.user.id;
 
   const data = await BookingService.holdSeats(showId, userId, seats);
   return res.status(StatusCodes.OK).json(
@@ -21,7 +21,8 @@ export async function holdSeats(req: Request<ShowIdParam>, res: Response) {
 
 export const createBooking = asyncHandler(
   async (req: Request, res: Response) => {
-    const data = await BookingService.createBooking(req.body);
+    const userId = req.user.id;
+    const data = await BookingService.createBooking(req.body, userId);
     return res.status(StatusCodes.CREATED).json(
       SuccessResponse({
         message: 'Booking created successfully',
@@ -30,3 +31,14 @@ export const createBooking = asyncHandler(
     );
   }
 );
+
+export const getBookings = async (req: Request, res: Response) => {
+  const userId = req.user.id;
+  const data = await BookingService.getBookings(userId);
+  return res.status(StatusCodes.OK).json(
+    SuccessResponse({
+      message: 'Bookings fetched successfully',
+      data,
+    })
+  );
+};
