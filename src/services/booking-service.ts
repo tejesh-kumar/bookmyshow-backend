@@ -13,11 +13,11 @@ import { ConflictError } from '../utils/errors/app-error';
 const bookingRepository = new BookingRepository();
 const bookingSeatRepository = new BookingSeatRepository();
 
-function generateSeatHoldKey(showId: number, seatId: string): string {
+function generateSeatHoldKey(showId: string, seatId: string): string {
   return `seat:hold:${showId}:${seatId}`;
 }
 
-async function holdSeats(showId: number, userId: number, seats: string[]) {
+async function holdSeats(showId: string, userId: string, seats: string[]) {
   const seatHoldKeys = seats.map((seatId: string) =>
     generateSeatHoldKey(showId, seatId)
   );
@@ -48,7 +48,8 @@ async function holdSeats(showId: number, userId: number, seats: string[]) {
 }
 
 async function createBooking(
-  bookingData: CreateBooking
+  bookingData: CreateBooking,
+  userId: string
 ): Promise<CreateBookingResponse> {
   const connection = await db.getConnection();
   try {
@@ -64,7 +65,7 @@ async function createBooking(
       ...seat,
       bookingId: Number(bookingId),
       showId: bookingData.showId,
-      userId: bookingData.userId,
+      userId: userId,
     }));
 
     const bookingSeatsId = await bookingSeatRepository.createMany(
@@ -81,4 +82,26 @@ async function createBooking(
   }
 }
 
-export default { holdSeats, createBooking };
+async function getBookings(
+  userId: string,
+  filters?: QueryFilterObject[],
+  cursor?: number,
+  limit?: number
+): Promise<GetMoviesResponse> {
+  const movieLimit = limit ?? 20;
+  const cursorId = cursor ?? 0;
+
+  // const bookings = await bookingRepository.findBookingsByUser({
+  //   ...(filters ? { filters } : {}),
+  //   sort: [{ field: 'id', order: 'ASC' }],
+  //   cursor: { id: cursorId },
+  //   limit: movieLimit,
+  // });
+
+  const bookings = await bookingRepository.findBookingsByUser(userId);
+
+  const nextCursor = bookings.at(-1)?.id ?? null;
+  return { bookings, nextCursor };
+}
+
+export default { holdSeats, createBooking, getBookings };
