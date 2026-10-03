@@ -3,7 +3,11 @@ import UserRepository from '../repositories/user-repository';
 import { CreateUser, LoginProps, User } from '../types/user';
 import { UnauthorizedError, ValidationError } from '../utils/errors/app-error';
 import { verifyPassword, hashPassword } from '../utils/passwordHashHelpers';
-import { getHmac256Hash, crypto64RandomString } from '../utils/cryptoHelpers';
+import {
+  getHmac256Hash,
+  crypto64RandomString,
+  crypto32RandomString,
+} from '../utils/cryptoHelpers';
 import { generateJwtToken } from '../utils/jwt';
 import RefreshTokenRepository from '../repositories/refresh-token-repository';
 
@@ -71,6 +75,7 @@ async function login(userData: LoginProps) {
   // generate jwt refresh token Expiry: 15 days
   const refreshToken = crypto64RandomString();
   const expiryInSeconds = 60 * 60 * 24 * 15;
+  const csrfToken = crypto32RandomString(); // generate csrf token
   const { id } = authorizedUser;
   await refreshTokenRepository.save(String(id), refreshToken, expiryInSeconds); // save refresh token in redis
 
@@ -80,7 +85,7 @@ async function login(userData: LoginProps) {
   const accessToken = generateJwtToken(accessTokenPayload);
 
   // send both tokens in response with success msg of login successful
-  return { refreshToken, accessToken };
+  return { refreshToken, accessToken, csrfToken };
 }
 
 async function logout(refreshToken: string) {

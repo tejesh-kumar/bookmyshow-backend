@@ -1,13 +1,22 @@
 import { Request, Response, NextFunction } from 'express';
-import { UnauthorizedError } from '../utils/errors/app-error';
+import { ForbiddenError, UnauthorizedError } from '../utils/errors/app-error';
 import { verifyJwtTokenAndGetUser } from '../utils/jwt';
 
 const authenticateUser = (req: Request, res: Response, next: NextFunction) => {
-  const { accessToken } = req.cookies;
+  const { accessToken, csrfToken: cookieTokenCsrf } = req.cookies;
+  const headerTokenCsrf = req.headers['x-csrf-token'];
 
   // console.dir({ accessToken, refreshToken }, { depth: null });
 
   if (!accessToken) throw new UnauthorizedError('Access token is missing');
+
+  if (
+    !cookieTokenCsrf ||
+    !headerTokenCsrf ||
+    cookieTokenCsrf !== headerTokenCsrf
+  ) {
+    throw new ForbiddenError('Invalid CSRF token');
+  }
 
   const { payload, isValidToken } = verifyJwtTokenAndGetUser(accessToken);
 
