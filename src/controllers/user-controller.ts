@@ -23,7 +23,9 @@ export async function loginUser(req: Request, res: Response) {
     if (isValidToken) throw new ConflictError('User already logged in');
   }
 
-  const { refreshToken, accessToken } = await UserService.login(req.body);
+  const { refreshToken, accessToken, csrfToken } = await UserService.login(
+    req.body
+  );
   return res
     .status(StatusCodes.OK)
     .cookie('accessToken', accessToken, {
@@ -39,6 +41,11 @@ export async function loginUser(req: Request, res: Response) {
       sameSite: 'lax',
       maxAge: 15 * 24 * 60 * 60 * 1000, // 15 days
       path: '/v1/auth/refresh',
+    })
+    .cookie('csrfToken', csrfToken, {
+      httpOnly: false,
+      secure: process.env.NODE_ENV === 'production',
+      sameSite: 'lax',
     })
     .json(
       SuccessResponse({
@@ -64,6 +71,11 @@ export async function logoutUser(req: Request, res: Response) {
       sameSite: 'lax',
       maxAge: 15 * 24 * 60 * 60 * 1000, // 15 days
       path: '/auth/refresh',
+    })
+    .clearCookie('csrfToken', {
+      httpOnly: false,
+      secure: process.env.NODE_ENV === 'production',
+      sameSite: 'lax',
     })
     .json(
       SuccessResponse({

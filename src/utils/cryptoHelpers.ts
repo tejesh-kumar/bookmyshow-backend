@@ -9,3 +9,6 @@ export const getHmac256Hash = (token: string): string => {
 
 export const crypto64RandomString = () =>
   crypto.randomBytes(64).toString('hex');
+
+export const crypto32RandomString = () =>
+  crypto.randomBytes(32).toString('hex');
