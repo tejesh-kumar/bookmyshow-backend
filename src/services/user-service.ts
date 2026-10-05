@@ -10,6 +10,7 @@ import {
 } from '../utils/cryptoHelpers';
 import { generateJwtToken } from '../utils/jwt';
 import RefreshTokenRepository from '../repositories/refresh-token-repository';
+import { EmailService } from '.';
 
 const userRepository = new UserRepository();
 const refreshTokenRepository = new RefreshTokenRepository();
@@ -20,6 +21,7 @@ async function createUser(userData: CreateUser) {
     password: await hashPassword(userData?.password),
   };
   const userId = await userRepository.create(user);
+  EmailService.send();
   return { userId };
 }
 
