@@ -45,9 +45,21 @@ export class UnauthorizedError extends AppError {
   }
 }
 
+export class ForbiddenError extends AppError {
+  constructor(message: string = 'Forbidden') {
+    super(StatusCodes.FORBIDDEN, message);
+  }
+}
+
 export class NotFoundError extends AppError {
   constructor(message: string = 'Resource not found') {
     super(StatusCodes.NOT_FOUND, message);
+  }
+}
+
+export class ConflictError extends AppError {
+  constructor(message: string = 'Conflict', details?: string[]) {
+    super(StatusCodes.CONFLICT, message, '', details);
   }
 }
 

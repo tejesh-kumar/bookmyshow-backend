@@ -1,5 +1,6 @@
-import { Pool, ResultSetHeader } from 'mysql2/promise';
+import { Pool, PoolConnection, ResultSetHeader } from 'mysql2/promise';
 import { RowDataPacket } from 'mysql2';
+import { NonEmptyArray } from '../types/dtos';
 
 export interface QueryFilterObject {
   field: string;
@@ -148,13 +149,33 @@ ORDER BY rating DESC,
     return ` limit ?`;
   }
 
-  async create(data: Record<string, unknown>): Promise<number | string> {
+  async create(
+    data: Record<string, unknown>,
+    connection?: PoolConnection
+  ): Promise<number | string> {
+    const db = connection ?? this.db;
     const fields = Object.keys(data);
     const values = Object.values(data);
     const fieldString = fields?.join(', ');
-    const fieldValueString = fields?.map(() => '?')?.join(', ');
-    const sql = `INSERT INTO ${this.tableName} (${fieldString}) VALUES (${fieldValueString})`;
-    const [result] = await this.db.execute<ResultSetHeader & T>(sql, values);
+    const placeholders = fields?.map(() => '?')?.join(', ');
+    const sql = `INSERT INTO ${this.tableName} (${fieldString}) VALUES (${placeholders})`;
+    const [result] = await db.execute<ResultSetHeader & T>(sql, values);
+    return result?.insertId;
+  }
+
+  async createMany(
+    data: NonEmptyArray<Record<string, unknown>>,
+    connection?: PoolConnection
+  ): Promise<number | string> {
+    const db = connection ?? this.db;
+    const fields = Object.keys(data[0]);
+    const values = data.flatMap((item) => Object.values(item));
+    const fieldString = fields?.join(', ');
+    const placeholders = data
+      .map(() => `(${fields?.map(() => '?')?.join(', ')})`)
+      .join(', ');
+    const sql = `INSERT INTO ${this.tableName} (${fieldString}) VALUES ${placeholders}`;
+    const [result] = await db.execute<ResultSetHeader & T>(sql, values);
     return result?.insertId;
   }
 
